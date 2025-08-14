@@ -35,6 +35,7 @@
 
 It has been estimated that more than one million adoptable dogs and cats are euthanized in the United States each year. This happens for the reason that there are too many pets that are enrolled into shelters and only a few people consider adoption when they look out for a pet.
 
+
 When our team heard about the animals that were in danger each year, it became a goal for us to help these speechless beings somehow. After brainstorming for a long time we came up with the idea of **PetMe**. We believe in the policy of saving animals and thus saving lives. Every life matters and we wish to be the part of the change that is making the same possible.
 
 
@@ -57,6 +58,7 @@ When our team heard about the animals that were in danger each year, it became a
 ## Watch the video:
 
 For a brief explanation about PetMe, you can watch the following video.
+
 
 [<img src="https://i.imgur.com/8gEUuwt.png" width="50%">](https://youtu.be/U1EQjtT-G8E)
  
